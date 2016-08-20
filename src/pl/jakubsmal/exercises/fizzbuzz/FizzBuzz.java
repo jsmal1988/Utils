@@ -2,7 +2,7 @@
  * @author Jakub Smal 
  * 20.08.2016 12:00:43
  */
-package challenges.fizzbuzz;
+package pl.jakubsmal.exercises.fizzbuzz;
 
 /*Write a program that prints the numbers from 1 to 100. 
  *For multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. 

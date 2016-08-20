@@ -2,7 +2,7 @@
  * @author Jakub Smal 
  * 20.08.2016 12:17:11
  */
-package challenges.staircase;
+package pl.jakubsmal.exercises.staircase;
 
 import java.util.Scanner;
 
@@ -18,9 +18,9 @@ import java.util.Scanner;
  */
 public class Staircase {
 	public static void main(String args[]){
-		 Scanner scanner = new Scanner(System.in);
-		 int number = scanner.nextInt();
-		 
+		/* Scanner scanner = new Scanner(System.in);
+		 int number = scanner.nextInt();*/
+		 int number = 10;
 		 
 		 if(number<=0){
 			 throw new IllegalArgumentException("n has to be positive bigger then 0");
